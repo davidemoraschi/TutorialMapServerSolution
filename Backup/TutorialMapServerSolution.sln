@@ -1,0 +1,32 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TutorialMapServer", "http://Localhost:/TutorialMapServer/TutorialMapServer.csproj", "{0FCE56B1-0B50-4215-95B3-E4E5DD75A56E}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 2
+		SccLocalPath0 = .
+		CanCheckoutShared = false
+		SolutionUniqueID = {6D8044F5-8A4B-41ED-BE03-67AD971D942B}
+		SccProjectUniqueName1 = http://Localhost:/TutorialMapServer/TutorialMapServer.csproj
+		SccProjectName1 = \u0022$/CortiSampleCode/MapServer/TutorialMapServerSolution/TutorialMapServer\u0022,\u0020QBEAAAAA
+		SccLocalPath1 = TutorialMapServer
+		CanCheckoutShared = false
+		SccProjectEnlistmentChoice1 = 2
+	EndGlobalSection
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{0FCE56B1-0B50-4215-95B3-E4E5DD75A56E}.Debug.ActiveCfg = Debug|.NET
+		{0FCE56B1-0B50-4215-95B3-E4E5DD75A56E}.Debug.Build.0 = Debug|.NET
+		{0FCE56B1-0B50-4215-95B3-E4E5DD75A56E}.Release.ActiveCfg = Release|.NET
+		{0FCE56B1-0B50-4215-95B3-E4E5DD75A56E}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
